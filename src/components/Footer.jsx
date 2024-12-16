@@ -5,7 +5,7 @@ export default function Footer() {
     <Box component="footer" sx={{ bgcolor: "gray", py: 3 }}>
       <Container maxWidth="lg">
         <Typography variant="h6" align="center" color="white" gutterBottom>
-        日本大学文理学部情報科学科 Webプログラミング演習課題
+        日本大学文理学部情報科学科 Webプログラミング最終課題
         </Typography>
 
         <Typography variant="h6" align="center" color="white" gutterBottom>

@@ -1,6 +1,5 @@
 body {
   font-family: helvetica, sans-serif;
-  display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
@@ -63,4 +62,8 @@ body {
   gap: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
+}
+
+.news {
+  text-align: left;
 }
